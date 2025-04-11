@@ -31,3 +31,5 @@ const Header = ({ itensNoCarrinho, favoritos }: Props) => {
 }
 
 export default Header
+
+//
